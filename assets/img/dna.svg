@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146.006" height="305" viewBox="0 0 146.006 305">
+  <g id="dna" transform="translate(2.5 2.5)">
+    <path id="dna-2" data-name="dna" d="M17,19.55c0,69.4,141,70.78,141,140.19,0,30.19-22.219,45.87-52.875,61.22m.01-140.33C133.619,65.51,158,48.41,158,19.55M69.872,238.39C41.381,253.51,17,270.61,17,299.47M69.872,98.33C39.216,113.68,17,129.36,17,159.55c0,69.4,141,70.78,141,140.19M17.027,159H157.973M28.6,129H146.4M21.185,39H153.8M22.061,279H152.939M27.095,189H147.905M17,19.55V9M158,19.55V9M17,299.47V309M158,299.74V309" transform="translate(-16.997 -9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+</svg>
